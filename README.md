@@ -1,5 +1,5 @@
 # QA_portfolio
 
-Здесь опубликовано моё портфолио по QA Engineer. На данный момент добавлен только автотест на python с использованием Selenium WebDriver и pytest.
+Здесь опубликовано моё портфолио по QA Engineer. На данный момент добавлен:
+1. автотест на python с использованием Selenium WebDriver и pytest. Для запуска следует зайти в директорию с .py файлами, открыть консоль и ввести "pytest -vv -s"
 
-В планах добавить автотест на cypress и Selenium WebDriver (Java).
